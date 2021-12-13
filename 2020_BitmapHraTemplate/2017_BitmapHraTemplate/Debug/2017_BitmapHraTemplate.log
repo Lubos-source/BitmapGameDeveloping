@@ -1,0 +1,17 @@
+﻿cl : příkazový řádek warning D9035: Možnost Gm je zastaralá a v příští verzi se odebere.
+  Scene.cpp
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Enemy.h(11,1): warning C4005: _UP: předefinování makra
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xlocinfo.h(36): message : viz předchozí definice _UP
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(30,32): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(31,32): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(34,36): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(35,36): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(38,44): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(39,46): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(272,12): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(273,12): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(285,12): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(286,12): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(299,12): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\2017_BitmapHraTemplate\Scene.cpp(300,12): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  2017_BitmapHraTemplate.vcxproj -> D:\skola UNOB\C++\Františ\WINAPPI\01 AHra BitMap\2020_BitmapHraTemplate\Debug\2017_BitmapHraTemplate.exe
